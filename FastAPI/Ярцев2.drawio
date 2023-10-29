@@ -1,0 +1,85 @@
+<mxfile host="app.diagrams.net" modified="2023-09-23T12:49:43.686Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 YaBrowser/23.7.5.739 Yowser/2.5 Safari/537.36" etag="iW0haFqjAUpq7DMtdNJS" version="21.8.0" type="device">
+  <diagram name="Страница — 1" id="eg-x3ydIg5GO0UNkbW0Y">
+    <mxGraphModel dx="1386" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SSnbAH6Zf_w5pRHX01di-33" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SSnbAH6Zf_w5pRHX01di-34" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="400" y="40" width="360" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SSnbAH6Zf_w5pRHX01di-35" value="Запрос" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="45" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SSnbAH6Zf_w5pRHX01di-36" value="Описание" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="45" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SSnbAH6Zf_w5pRHX01di-38" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SSnbAH6Zf_w5pRHX01di-41" value="GET /instruments" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="80" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SSnbAH6Zf_w5pRHX01di-42" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="360" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SSnbAH6Zf_w5pRHX01di-43" value="Получить информацию о инструменте" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="80" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SSnbAH6Zf_w5pRHX01di-44" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="40" y="110" width="360" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SSnbAH6Zf_w5pRHX01di-45" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="400" y="110" width="360" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SSnbAH6Zf_w5pRHX01di-46" value="POST /instruments" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="120" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SSnbAH6Zf_w5pRHX01di-48" value="{" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="50" y="150" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SSnbAH6Zf_w5pRHX01di-49" value="&quot;name&quot; : &quot;piano&quot;&lt;br style=&quot;font-size: 13px;&quot;&gt;&quot;volume&quot; : &quot;60db&quot;&lt;br style=&quot;font-size: 13px;&quot;&gt;&quot;timbre&quot; : &quot;10&quot;&lt;br style=&quot;font-size: 13px;&quot;&gt;&quot;price&quot; : &quot;5200$&quot;&lt;br style=&quot;font-size: 13px;&quot;&gt;}" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="50" y="195" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SSnbAH6Zf_w5pRHX01di-51" value="Создать новый инструмент::" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="120" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SSnbAH6Zf_w5pRHX01di-53" value="Название - пианино&lt;br&gt;Громкость - 60дб&lt;br&gt;тембр - 10&lt;br&gt;цена - 5200$" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="410" y="160" width="166" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SSnbAH6Zf_w5pRHX01di-55" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="40" y="260" width="360" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="SSnbAH6Zf_w5pRHX01di-56" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="400" y="260" width="360" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="SSnbAH6Zf_w5pRHX01di-57" value="PUT /instruments" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="260" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SSnbAH6Zf_w5pRHX01di-59" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;{&lt;br&gt;&quot;name&quot; : &quot;pianoforte&quot;&lt;br&gt;&quot;volume&quot; : &quot;70db&quot;&lt;br&gt;&quot;timbre&quot; : &quot;16&quot;&lt;br&gt;&quot;price&quot; : &quot;6000$&quot;&lt;br&gt;}" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="50" y="300" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SSnbAH6Zf_w5pRHX01di-60" value="Редактировать инструмент следующим образом:" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="270" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SSnbAH6Zf_w5pRHX01di-61" value="&lt;br&gt;Название - Фортепиано&lt;br&gt;Громкость - 70дб&lt;br&gt;Тембр - 16&lt;br&gt;цена - 6000$" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="410" y="300" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SSnbAH6Zf_w5pRHX01di-62" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SSnbAH6Zf_w5pRHX01di-63" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
+          <mxGeometry x="400" y="400" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SSnbAH6Zf_w5pRHX01di-64" value="DELETE /instruments/guitar/defect" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="410" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SSnbAH6Zf_w5pRHX01di-65" value="Удалить из системы бракованный инструмент гитару" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="410" width="330" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
